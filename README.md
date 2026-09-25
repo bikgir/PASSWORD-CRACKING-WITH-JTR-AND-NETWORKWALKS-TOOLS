@@ -1,4 +1,5 @@
 **Background **
+
 John the Ripper (JTR) is a password-auditing tool used to test the strength of password hashes and protected files. Johnny is its graphical interface, making JTR easier to use through point-and-click options. In this lab, JTR and Johnny are used to recover the password of an authorized protected PDF and demonstrate the risks of weak passwords.
 NetworkWalks provides online tools such as the Hash Calculator and Password Cracker. The Hash Calculator generates a hash from an authorized protected PDF, while the Password Cracker performs a dictionary-based recovery attempt. These tools help learners understand password attacks and the importance of using strong, unique passwords.
 
